@@ -10,7 +10,7 @@ body {
     text-align: center;
     color: rgb(46, 45, 45);
     font-style: normal;
-    font-size: 20px;
+    font-size: 15px;
 }
 .column {
     float: left;
@@ -24,24 +24,29 @@ body {
     clear: both;
   }
 
+#logo {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
 #aboutus {
-    padding: 100px;
-    background-color: rgba(255, 255, 255, 0.342);
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
 }
 
 #menu {
-    padding: 100px;
-    background-color: rgba(255, 255, 255, 0.342);
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
 }
 
 #news {
-    padding: 100px;
-    background-color: rgba(255, 255, 255, 0.342);
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
 }
 
 #reservation {
-    padding: 100px;
-    background-color: rgba(255, 255, 255, 0.342);
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
 }
 
 
